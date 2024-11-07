@@ -1,1 +1,1 @@
-# RabbitMQ-C-
+# RabbitMQ-api
